@@ -1,6 +1,6 @@
-# blog
+# primu's blog
 
-> PRIMU's blog
+> This is my blog written in VueJS. 
 
 ## Build Setup
 
